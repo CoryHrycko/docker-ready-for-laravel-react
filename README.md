@@ -11,17 +11,6 @@
 7. Navigate to http://localhost/
 8. Enjoy
 
-## How to enjoy.
-
-1. Grab a Dr. Pepper Zero
-2. Click on register link
-3. register yourself
-4. click on login link (I know it should have forwarded you. That is the Work in progress portion)
-5. login
-6. forwards you to the quote page
-7. enter in all the information your heart desires.
-8. Watch your sweet sweet all time low travel quote come in.
-
 ## Architecture
 
 * Docker
